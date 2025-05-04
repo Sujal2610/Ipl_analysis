@@ -26,7 +26,7 @@ with zipfile.ZipFile('deliveries.csv.zip') as z:
         deliveries = pd.read_csv(f)
 ```
 
-##  Features & Analyses
+#  Features & Analyses
 
 #Match & Team Insights
 - Most successful teams by season and overall (2008–2024)
@@ -43,7 +43,7 @@ with zipfile.ZipFile('deliveries.csv.zip') as z:
 
 ---
 
-## Tech Stack
+# Tech Stack
 - Python 3
 - Pandas
 - Matplotlib & Seaborn (for visualizations)
