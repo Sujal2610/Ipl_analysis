@@ -51,4 +51,4 @@ with zipfile.ZipFile('deliveries.csv.zip') as z:
 
 
 # Acknowledgment
-Dataset sourced from [Kaggle – IPL Dataset](https://www.kaggle.com/datasets)
+Dataset sourced from [Kaggle – IPL Dataset](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
